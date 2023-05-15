@@ -2,6 +2,8 @@
 
 JQCron is a [jQuery]/[Bootstrap] plugin to edit crontab expressions.
 
+![Alt text](screenshot.png?raw=true)
+
 ## Dependencies
 
  * [jQuery]
